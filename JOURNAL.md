@@ -12,3 +12,6 @@ Add rule to admit uncertainty instead of fabricating
 ## v0.6 · journal
 Cycle without promotion — not enough votes
 Collected 0/2 votes, collection extended.
+
+## v0.7
+Add rule to admit uncertainty instead of fabricating (win-rate 67%).
